@@ -1,0 +1,11 @@
+#ifndef SYSPRO_PROJECT3_SERVER_SIGNAL_H
+#define SYSPRO_PROJECT3_SERVER_SIGNAL_H
+
+
+
+void exitSignalHandler();
+
+
+
+
+#endif //SYSPRO_PROJECT3_SERVER_SIGNAL_H
